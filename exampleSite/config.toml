@@ -1,4 +1,4 @@
-baseURL = "https://learnplify.netlify.app"
+baseURL = "https://learnplify.org"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
