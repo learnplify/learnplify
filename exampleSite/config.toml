@@ -1,10 +1,10 @@
-baseURL = "https://learnplify.netlify.app/"
+baseURL = "https://learnplify.netlify.app"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
 summaryLength = "10"
 theme = "learnplify"
-title = "Educenter | hugo education template"
+title = "Learnplify"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
@@ -121,11 +121,11 @@ mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463e
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "learnplify"
 title = "facebook"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
+link = "learnplify"
 title = "twitter"
 [[params.social]]
 icon = "ti-instagram"
