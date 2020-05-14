@@ -1,9 +1,9 @@
-baseURL = "http://learnplify.org"
+baseURL = "http://learnplify.netlify.app"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
 summaryLength = "10"
-theme = "educenter-hugo"
+theme = "learnplify"
 title = "Educenter | hugo education template"
 [Languages.en]
 contentDir = "content/english"

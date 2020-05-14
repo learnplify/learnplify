@@ -14,13 +14,13 @@ In this tutorial we will show you to make your website live without buying any h
 
 ### Step 1 : Fork or Clone repository
 
-First we will fork this [educenter hugo](https://github.com/themefisher/educenter-hugo) template.
+First we will fork this [educenter hugo](https://github.com/themefisher/learnplify) template.
 
 ### Step 2 : Add your repository in Forestry
 
 Go to your [forestry](https://bit.ly/forestry-account)  account and click on `import your site now`. declare your config.toml file [`exampleSite`] and fill up basic settings .
 
-**Or just click this button for one click installation** [![import to forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=themefisher/educenter-hugo&engine=hugo&version=0.60.1&config=exampleSite)
+**Or just click this button for one click installation** [![import to forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=themefisher/learnplify&engine=hugo&version=0.60.1&config=exampleSite)
 
 Now mark everything as done, then go to configuration to change the base url . You can put any url but this have to similar as netlify . So for now put a name which you are going to put in netlify as netlify subdomain.
 
@@ -28,7 +28,7 @@ Now mark everything as done, then go to configuration to change the base url . Y
 
 Here comes the last step . Go to your [netlify](https://bit.ly/netlify-account) account and click add new site . Choose your git repository to import your website in netlify .  And now you can see the forked `educenter hugo` theme. select it and follow the steps. Then go to `site settings` for change the site name and put your subdoamin name here what you puted on forestry as base url. save it and go to `deploy` from top menu, Wait a while and click on `site preview` or just simply go to the subdomain you puted as base url. **BOOM! Your site is live.** Now you can go to forestry and add, remove or customize every setting and content.
 
-> If you face any issue regarding the installation feel free to onen [open a new issue](https://github.com/themefisher/educenter-hugo/issues)
+> If you face any issue regarding the installation feel free to onen [open a new issue](https://github.com/themefisher/learnplify/issues)
 
 ## Table of Contents
 
@@ -48,18 +48,18 @@ Here comes the last step . Go to your [netlify](https://bit.ly/netlify-account) 
 
 **The images are only for demonstration purpose, Please don't use those images.**
 
-[Live Demo](http://demo.themefisher.com/educenter-hugo/).
+[Live Demo](http://demo.themefisher.com/learnplify/).
 
 ## Installation
 At the top we have shown an easy hugo installation. but still if you think you want to go with the traditional way then use the following commands:
 
 ```
-$ git clone git@github.com:themefisher/educenter-hugo.git
-$ cd educenter-hugo/exampleSite/
+$ git clone git@github.com:themefisher/learnplify.git
+$ cd learnplify/exampleSite/
 $ hugo server --themesDir ../..
 ```
 
-[Full Documentation](https://documentation.themefisher.com/docs/educenter-hugo/).
+[Full Documentation](https://documentation.themefisher.com/docs/learnplify/).
 
 ## Main features
 
@@ -69,8 +69,8 @@ $ hugo server --themesDir ../..
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the educenter Template. Please Search [existing issues](https://github.com/themefisher/educenter-hugo/issues). It’s possible someone has already reported the same problem.
-If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/educenter-hugo/issues)
+We use GitHub Issues as the official bug tracker for the educenter Template. Please Search [existing issues](https://github.com/themefisher/learnplify/issues). It’s possible someone has already reported the same problem.
+If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/learnplify/issues)
 
 ## Technical Support or Questions
 
