@@ -15,15 +15,15 @@ slider:
         link : "about"
 
     # slider item loop
-    #- title : "Apply for Mentorship!"
-    #  content : "Mentee Application is now open!"
-    #  animation_in : "left"
-    #  animation_out : "right"
+    - title : "Apply for Mentorship!"
+      content : "Mentee Application is now open!"
+      animation_in : "left"
+      animation_out : "right"
       # available animation : left, right, up, down
-    #  button:
-    #    enable : true
-    #    label : "Apply"
-    #    link : "contact"
+      button:
+        enable : true
+        label : "Apply"
+        link : "contact"
 
 
 ############################### Banner feature ###############################
