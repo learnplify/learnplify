@@ -81,8 +81,9 @@ contact_form_action = "#"
 description = "This is meta description"
 email = "info@learnplify.org"
 google_analitycs_id = ""
-logo = "images/logo.png"
-mobile = "+211234565523"
+logo = "images/logo.png" 
+logo2 = "images/logo2.png" 
+mobile = "Online"
 top_header = true
 [params.map]
 enable = true
