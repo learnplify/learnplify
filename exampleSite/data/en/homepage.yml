@@ -1,11 +1,11 @@
 ################################# Slider #####################################
 slider:
-  enable : true
+  enable : false
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
     - title : "Welcome to Learnplify"
-      content : "We are connecting the like-minded brains"
+      content : "Sharing knowledge by connecting like-minded individuals"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
