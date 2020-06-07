@@ -1,5 +1,5 @@
 baseURL = "https://learnplify.org"
-disableLanguages = "true"
+disableLanguages = [true]
 disqusShortname = "learnplify"
 paginate = "6"
 summaryLength = "10"
@@ -138,7 +138,7 @@ link = "https://github.com/learnplify"
 title = "github"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://www.linkedin.com/company/learnplify"
 title = "linkedin"
 [[params.social]]
 icon = "ti-youtube"

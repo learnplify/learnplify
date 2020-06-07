@@ -89,7 +89,7 @@
   translation: Courses
 
 - id: new_notice
-  translation: Resources
+  translation: About this site
 
 - id: call
   translation: call
