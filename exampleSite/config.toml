@@ -76,7 +76,7 @@ name = "Contact"
 weight = 5
 [params]
 address = "Online"
-author = "Themefisher"
+author = "iwazirijr"
 contact_form_action = "#"
 description = "This is meta description"
 email = "info@learnplify.org"
