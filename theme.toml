@@ -8,8 +8,8 @@ features = ["blog", "company", "responsive", "seo-friendly"]
 min_version = "0.60.0"
 
 [author]
-  name = "Themefisher"
-  homepage = "https://themefisher.com/"
+  name = "iwazirijr"
+  homepage = "https://iwazirijr.com/"
 
 [original]
   name = "Educenter"
