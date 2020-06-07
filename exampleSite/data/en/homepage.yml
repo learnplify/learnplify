@@ -4,15 +4,15 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "Your bright future is our mission"
+    - title : "Welcome to Learnplify"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
-        link : "contact"
+        label : "Learn about us"
+        link : "about"
 
     # slider item loop
     - title : "Your bright future is our mission"
@@ -21,7 +21,7 @@ slider:
       animation_out : "right"
       # available animation : left, right, up, down
       button:
-        enable : true
+        enable : false
         label : "Apply now"
         link : "contact"
 

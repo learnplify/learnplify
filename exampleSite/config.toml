@@ -129,11 +129,11 @@ link = "https://twitter.com/learnplify"
 title = "twitter"
 [[params.social]]
 icon = "ti-instagram"
-link = "#"
+link = "https://www.instagram.com/learnplify"
 title = "instagram"
 [[params.social]]
 icon = "ti-github"
-link = "#"
+link = "https://github.com/learnplify"
 title = "github"
 [[params.social]]
 icon = "ti-linkedin"
