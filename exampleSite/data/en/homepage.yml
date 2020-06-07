@@ -1,6 +1,6 @@
 ################################# Slider #####################################
 slider:
-  enable : false
+  enable : true
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
@@ -11,19 +11,19 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Learn about us"
+        label : "About Learnplify"
         link : "about"
 
     # slider item loop
-    - title : "Apply for Mentorship!"
-      content : "Mentee Application is now open!"
-      animation_in : "left"
-      animation_out : "right"
+    #- title : "Apply for Mentorship!"
+    #  content : "Mentee Application is now open!"
+    #  animation_in : "left"
+    #  animation_out : "right"
       # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Apply"
-        link : "contact"
+    #  button:
+    #    enable : true
+    #    label : "Apply"
+    #    link : "contact"
 
 
 ############################### Banner feature ###############################
