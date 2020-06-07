@@ -1,5 +1,5 @@
 baseURL = "https://learnplify.org"
-disableLanguages = []
+disableLanguages = "true"
 disqusShortname = "learnplify"
 paginate = "6"
 summaryLength = "10"
@@ -75,7 +75,7 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
+address = "Online"
 author = "Themefisher"
 contact_form_action = "#"
 description = "This is meta description"
@@ -83,7 +83,7 @@ email = "info@learnplify.org"
 google_analitycs_id = ""
 logo = "images/logo.png" 
 logo2 = "images/logo2.png" 
-mobile = "Online"
+mobile = "+12020000000 | +2348023000000"
 top_header = true
 [params.map]
 enable = true
